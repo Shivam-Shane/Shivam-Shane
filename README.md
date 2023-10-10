@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shivam-shane.github.io/My_portfolio_website/](https://shivam-shane.github.io/My_portfolio_website/)
 
-- 💬 Ask me about **Natural Language Processing, Data Science**
+- 💬 Ask me about **Natural Language Processing, Data Science, Deep Learning**
 
-- 📫 How to reach me **sk0551460@gmail.com**
+- 📫 How to reach me **Email me at sk0551460@gmail.com** or **call me at 9815544235**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-2641081a0/](https://www.linkedin.com/in/shivam-2641081a0/)
 

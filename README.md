@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">I am passionate about machine learning, data analysis, and model training.</h3>
+<h3 align="center">I am a highly skilled and decisive professional with developed expertise in various AI/ML technologies. I am proficient in statistical modeling using Python, machine learning, deep learning, and NLP. I possess the capability to develop and deploy models in AWS using GitHub actions and MLOps. I have gained excellent knowledge in all data science project lifecycle stages. In addition, I am well-versed in handling tools such as ChatGPT, Google Bard, MS Excel, MS SQL, and PowerBI. I also possess exceptional relationship-building skills and leverage superior interpersonal abilities to ensure maximum corporate compliance with regulations. Specialties: Python | SQL | Machine Learning | NLP | MLOps | Technical Writing | Data Analytics | Deep Learning</h3>
 <img width="300px" height="300px" src="https://github.com/Shivam-Shane/Shivam-Shane/blob/25219283d54575ea4cdb78425e48855e36fec7da/Work_images.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-shane&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-shane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-shane&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam-Shane" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Natural Language Processing, Data Science, Deep Learning**
 
-- 📫 How to reach me **Email me at sk0551460@gmail.com** or **call me at 9815544235**
+- 📫 Reach me **Email me at sk0551460@gmail.com** or **call me at 9815544235**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-2641081a0/](https://www.linkedin.com/in/shivam-2641081a0/)
 

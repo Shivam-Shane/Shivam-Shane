@@ -3,7 +3,7 @@
 <img width="300px" height="300px" src="https://github.com/Shivam-Shane/Shivam-Shane/blob/25219283d54575ea4cdb78425e48855e36fec7da/Work_images.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-shane&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam-Shane" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Generative AI & Big Data**
 
 - 👨‍💻 All of my projects are available at [https://shivam-shane.github.io/My_portfolio_website/](https://shivam-shane.github.io/My_portfolio_website/)
 

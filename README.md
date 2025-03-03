@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Generative AI & Big Data**
 
-- 👨‍💻 All of my projects are available at [https://shivam-shane.github.io/My_portfolio_website/](https://shivam-shane.github.io/My_portfolio_website/)
+- 👨‍💻 All of my projects are available at https://shivam-portfoliio.vercel.app/
 
 - 💬 Ask me about **Natural Language Processing, Data Science, Deep Learning**
 
 - 📫 Reach me **Email me at sk0551460@gmail.com** or **call me at 9815544235**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shivam-2641081a0/](https://www.linkedin.com/in/shivam-2641081a0/)
+- 📄 Know about my experiences https://www.linkedin.com/in/shivam-hireme/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-2641081a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-2641081a0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-hireme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-2641081a0/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
